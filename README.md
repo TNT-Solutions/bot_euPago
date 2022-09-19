@@ -37,3 +37,7 @@ python bot_euPago.py
 ## Link do vídeo no youtube
 
 O vídeo contém instruções de como executar o projeto. Link para o vídeo: https://youtu.be/JowRNFUGMAA
+
+## Link do fluxograma
+
+https://www.canva.com/design/DAFMoj7g-UE/-cRV62P6B5gaLPsQMHZ7Rw/edit?utm_content=DAFMoj7g-UE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
